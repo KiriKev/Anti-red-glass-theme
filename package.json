@@ -8,6 +8,17 @@
     "type": "git",
     "url": "https://github.com/KiriKev/Anti-red-glass-theme"
   },
+  "keywords":[
+    "theme",
+    "red glasses",
+    "blue light",
+    "ambient",
+    "blue",
+    "turquoise",
+    "green",
+    "violet",
+    "purple"
+  ],
   "engines": {
     "vscode": "^1.87.0"
   },
