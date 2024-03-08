@@ -1,0 +1,26 @@
+{
+  "name": "anti-red-glass-theme",
+  "displayName": "Anti Red Glass Theme",
+  "description": "A color theme made for red (blue light filter) glasses.",
+  "version": "0.0.1",
+  "publisher": "Kirikev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KiriKev/Anti-red-glass-theme"
+  },
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Anti Red Glass Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Anti Red Glass Theme-color-theme.json"
+      }
+    ]
+  }
+}
